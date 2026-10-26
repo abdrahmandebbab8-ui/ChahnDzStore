@@ -1,0 +1,6 @@
+{
+  "name": "اشحنلي عبود - ChahnDz Gaming Top-Up Store",
+  "description": "تطبيق شحن ألعاب وبطاقات رقمية مع دعم اللغتين العربية والإنجليزية والدفع عبر بريدي موب وCCP، ودعم كامل لنظام أندرويد وJetpack Compose.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
